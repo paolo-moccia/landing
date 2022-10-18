@@ -1,0 +1,13 @@
+.btn-beige {
+	background-color: rgba(255, 200, 130, 0.6);
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+.btn-beige:hover {
+	background-color: rgba(255, 200, 130, 0.8);
+}
